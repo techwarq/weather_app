@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../../Downloads/images"
+		},
+		{
+			"name": "Weather APP",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
